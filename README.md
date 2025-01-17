@@ -53,7 +53,7 @@ Follow these steps to set up the project locally:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ajay-khichi/echelon-dev-society.git
+   git clone https://github.com/ajay-khichi/Echelon-dev-society.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
